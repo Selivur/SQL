@@ -1,0 +1,1 @@
+SELECT * FROM tsql_2012.suppliers  WHERE country='USA';
